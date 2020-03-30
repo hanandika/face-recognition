@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  background: #ffffff;
+  width: calc(100% - 33px);
+}
+
+canvas {
+  position: absolute;
+}
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
